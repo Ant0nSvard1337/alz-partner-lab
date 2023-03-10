@@ -6,7 +6,7 @@ env:
   ManagementGroupPrefix: "alz"
   TopLevelManagementGroupDisplayName: "Azure Landing Zones"
   Location: "eastus"
-  LoggingSubId: "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  LoggingSubId: "4143acea-09a5-4cfd-81a2-39378dec9b9a"
   LoggingResourceGroupName: "alz-logging"
   HubNetworkSubId: "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
   HubNetworkResourceGroupName: "Hub_Networking_POC"
